@@ -4,7 +4,7 @@ A simple calculator using Rhino Library and Lottie library
 
 
 
-<img src ="https://user-images.githubusercontent.com/73388473/116210775-d0665b00-a760-11eb-9461-e9c59c74a13b.jpeg" width= "200" height ="400">
+<img src="https://user-images.githubusercontent.com/73388473/116226215-5a69f000-a770-11eb-9c0f-24b8c9bc4bc0.gif" height="400" width="200">
 
 
 # Calculator Screen
